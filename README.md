@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on an [E-Commerce Project](https://github.com/Chura33/E-commerce-server.git)
 
-- 🌱 I’m currently learning **MERN, JavaScript & Flask**
+- 🌱 I’m currently learning **MERN Stack, JavaScript & Flask**
 
 - 📝 I regularly write articles on [https://medium.com/@hilkiahe](https://medium.com/@hilkiahe)
 
