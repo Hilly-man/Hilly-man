@@ -1,5 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-<h1 align="center">Hi 👋, I'm Hilkiah Edem from Nigeria</h1>
+<h1 align="center">Hi 👋, I'm Hilkiah Edem from Nigeria ![image](https://github.com/Hilly-man/Hilly-man/assets/86406033/5cbd10fc-9e42-4371-ae07-d2b56e900346)
+ </h1>
 <h3 align="center">Passionatly & Strategically Coding the Future | Backend Software Engineer | Problem Solver 🧠</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
